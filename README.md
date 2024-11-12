@@ -1,3 +1,3 @@
-# Banki
-This is Banki<br>
+# Bankai
+This is Bankai<br>
 i have create HTML.
